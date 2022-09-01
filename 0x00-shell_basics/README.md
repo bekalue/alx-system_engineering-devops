@@ -39,12 +39,12 @@ rm *~
 mkdir -p welcome/to/school
 18. #!/bin/bash
 ls -pamv
-19. create a file school
+19. I created a file school
 It's contents should be.
 #!/bin/bash
 0 string SCHOOL School data
 !:mime School
-Then close file and go terminal
-chmod u+x school
-file -C -m school
+Then closed file and went to terminal
+chmod u+x school.mgc
+file -C -m school.mgc
 Above are the solutions for the shell basics tasks. I Made sure that for each task, I used the command chmod u+x <file name> before i add and commit my changes so that the script can be executable.
