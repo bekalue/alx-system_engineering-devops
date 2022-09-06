@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR | grep ^d | wc -l # this is the answer without using find
+printenv PATH | tr ':' '\n' | wc -l
