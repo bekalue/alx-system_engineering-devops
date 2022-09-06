@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello $(id -nu)"
+name=MyUser | echo "hello $name"
