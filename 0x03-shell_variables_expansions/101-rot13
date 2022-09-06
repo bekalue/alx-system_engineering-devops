@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'a-z' 'n-z' | tr 'n-z' 'a-z' | printf "%b\n"
