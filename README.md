@@ -4,7 +4,7 @@ This repository comprises projects I did in the ALX system Engineering Devops co
 
 ## Acknowledgment
 
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry.
+All of the work in this project was conducted as part of the ALX-SE program's curriculum. [ALX Africa](https://www.alxafrica.com//) is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the computer software industry.
 
 ## Description
 
