@@ -13,4 +13,4 @@ At Alx SE Program, we learn by doing. We have projects everyday that we have to 
 
 ## AUTHOR
 
-Bekalu Endrias Geta - Cohort 9
+* **[Bekalu Endrias Geta](https://github.com/bekalue)** - Cohort 9
