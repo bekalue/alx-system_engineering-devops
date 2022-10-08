@@ -1,6 +1,6 @@
 # Alx System Engineering Devops Project
 
-This repository comprises projects I did in the ALX system Engineering Devops course, the majority of which involved the use and mastery of bash
+This repository comprises projects I did in the ALX system Engineering Devops course, the majority of which involved the use and mastery of `bash`
 
 ## Acknowledgment
 
